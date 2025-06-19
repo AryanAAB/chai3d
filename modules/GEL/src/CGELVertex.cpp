@@ -74,6 +74,4 @@ cGELVertex::cGELVertex(chai3d::cMesh* a_mesh, unsigned int a_vertexIndex)
 //==========================================================================
 cGELVertex::~cGELVertex()
 {
-    // \todo this causes a crash
-    //delete m_massParticle;
 }
